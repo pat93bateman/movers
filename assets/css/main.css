@@ -3230,7 +3230,7 @@ input, select, textarea {
 					}
 
 						#header nav a[href="#menu"]:last-child:before, #header nav a[href="#menu"]:last-child:after {
-							right: 1em;
+							right: 2em;
 						}
 
 		#header.reveal {
