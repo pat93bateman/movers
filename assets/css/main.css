@@ -3400,6 +3400,8 @@ input, select, textarea {
 
 				#banner header h2 em {
 					opacity: 0.75;
+					font-weight: 400;
+					font-size: 0.9em;
 				}
 
 				#banner header h2 a {
